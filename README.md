@@ -16,7 +16,7 @@
 * Appliction should demonstrate pluggable authentication.
 * Application should demonstrate pluggable CTI integration (something like Amazon Connect).
 
-* Pages should be sourced from different URLs in the content area: and should successfully.register and unregister themselves based on navigation.
+* Pages should be sourced from different URLs in the content area: and should successfully register and unregister themselves based on navigation.
 * Page registration should be agnostic to the type of framework they are written in.
 
 * A least one piece of data should be persisted on the client side between page navigations.
